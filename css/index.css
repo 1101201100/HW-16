@@ -1,0 +1,11 @@
+.bg-box {
+    background-color: green;
+    height: 125px;
+    width: auto;
+    background-image:url(../img/grass.png), url(../img/house.jpg), 
+    url(../img/lamp.png), url(../img/donut.png), url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru);
+    background-repeat: repeat-x, no-repeat, repeat-x, repeat-y, repeat-y;
+    background-position: bottom, center, top, right, left;
+    background-size: 50px, 90px, 7px, 7px, 7px;
+}
+
